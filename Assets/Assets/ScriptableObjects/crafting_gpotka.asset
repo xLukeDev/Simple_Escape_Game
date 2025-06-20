@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d308649db932d564f89b3cff288a05b8, type: 3}
+  m_Name: crafting_gpotka
+  m_EditorClassIdentifier: 
+  itemA: {fileID: 11400000, guid: f287bb4bc9cad88458de598c3be94b7d, type: 2}
+  itemB: {fileID: 11400000, guid: fb014f26c8cc59a4ca451ccfaf02afc3, type: 2}
+  outputItem: {fileID: 11400000, guid: 53f731c0148071d43b7e65c6a0da38f8, type: 2}
+  description: "Wypij, by zdoby\u0107 wi\u0119kszy skok! Trwa tylko minut\u0119!"
